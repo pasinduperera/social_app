@@ -11,10 +11,12 @@ router.post("./createpost",require_login,(req,res)=>{
     }
     console.log(req.user);
     res.send("ok")
-    // const post =  new post({
-    //     title,
-    //     body
-    //////////
-    // })
+    
+       const post = new post({
+        title,
+        body,
+        post      
+
+     })
 })
 module.exports = router
