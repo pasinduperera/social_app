@@ -4,3 +4,4 @@ In briefly this is  social media application.
 new path here...
 inspiring details with jwt and integration between backend and postman.
 finished the route of posting image section..
+create the clientfolder which going to included all front end saurce files.
